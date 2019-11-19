@@ -18,3 +18,15 @@ p.centro {
 footer {
     background-color: lightcyan;
 }
+
+p.derecha {
+    text-align: right;
+}
+
+img.izquierda {
+    float: left;
+}
+
+table {
+    clear: both;
+}
