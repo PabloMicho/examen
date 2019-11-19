@@ -1,0 +1,20 @@
+td.fondo {
+    background-color: lightyellow;
+    }
+
+p.titulo {
+    color: blue;
+    font-variant: small-caps;
+}
+
+img.caja {
+    float: right;
+}
+
+p.centro {
+    text-align: center;
+}
+
+footer {
+    background-color: lightcyan;
+}
